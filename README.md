@@ -1,5 +1,5 @@
 # money-tracker
-An application to track the income and outcome of certain sources.
+An application to track income and expenses.
 
 ### Application Information
 * Built using the MERN stack: `MongoDB`, `Express`, `React` and `Node.js`.
