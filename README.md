@@ -5,6 +5,7 @@ An application to track the income and outcome of certain sources.
 * Built using the MERN stack: `MongoDB`, `Express`, `React` and `Node.js`.
 * Used for expenses, income and budget planing.
 * It is a simple and minimalistic program.
+* The UI is written in german.
 
 <h3 align="left">Used programming languages</h3>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
