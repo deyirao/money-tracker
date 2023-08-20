@@ -3,7 +3,7 @@ An application to track income and expenses.
 
 ### Application Information
 * Built using the MERN stack: `MongoDB`, `Express`, `React` and `Node.js`.
-* Used for expenses, income and budget planing.
+* Its purpose is for budget planing.
 * It is a simple and minimalistic program.
 * The UI is written in german.
 
