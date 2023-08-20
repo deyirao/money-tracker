@@ -14,4 +14,3 @@ An application to track income and expenses.
 
 ### Preview
 <img align="left" alt="Coding" width="600" src="./anwendungsbeispiel.png">
-
